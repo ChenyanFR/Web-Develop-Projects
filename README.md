@@ -6,7 +6,7 @@ The design is based on this [CodePen example](https://codepen.io/travisw/pen/Evb
 
 ## 📷 Screenshot
 
-![Pricing Panel Screenshot](screenshot.png)
+![Pricing Panel Screenshot](icons/ScreenShot.png)
 
 ## 🛠 Technologies Used
 
